@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Tauqeer%20Ahmad%20Qureshi&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=AI/ML%20Software%20Engineer%20%E2%80%94%20Agentic%20Systems%20%C2%B7%20LLM%20Orchestration%20%C2%B7%20RAG&descSize=16&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+Full-Stack+AI+Products+from+Idea+to+Production;Designing+Multi-Agent+LLM+Systems+that+Ship;RAG+Pipelines+%7C+Voice+AI+Agents+%7C+Cloud-Native+Deployment;Python+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+Azure+%C2%B7+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+AI+Products+from+Idea+to+Production;Designing+Multi-Agent+LLM+Systems+that+Ship;RAG+Pipelines+%7C+Voice+AI+Agents+%7C+Cloud-Native+Deployment;Python+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+Azure+%C2%B7+AWS" alt="Typing SVG" />
 
 <br/>
 
