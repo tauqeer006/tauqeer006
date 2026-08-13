@@ -7,7 +7,7 @@
 <br/>
 
 <a href="mailto:tauqeerqureshi112@gmail.com"><img src="https://img.shields.io/badge/Email-tauqeerqureshi112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tauqeer006"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tauqeer006.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Rawalpindi%2C%20Pakistan-Remote%20Friendly-2ea44f?style=flat-square"/>
